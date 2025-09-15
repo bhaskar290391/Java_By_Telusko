@@ -1,0 +1,38 @@
+git --version 
+
+==> This command used to check the vesrion of git using in the local machines.
+
+################################################################################################
+
+git config --global --list
+
+==> Provide the list of configuration used in the Git 
+
+#################################################################################################
+
+git config --global user.name "Bhaskar Mudaliyar"
+git config --global user.email "mudaliyarbhaskar29@gmail.com"
+
+==> Used to register username and email in the git credential manager .
+
+#################################################################################################
+git init -b main 
+
+==> Used to create local git repository with main branch
+
+#################################################################################################
+git status 
+
+==> Used to tracked file in the staging area and untracked file
+
+##################################################################################################
+
+git commit -m "First commit"
+
+==> Used to commit the changes in the local repository
+
+###################################################################################################
+
+git log
+
+==> Used to provide the commit history log 
