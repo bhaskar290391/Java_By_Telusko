@@ -124,3 +124,9 @@ git branch
 git branch  -d feature2
 
 ==> used to delete the specific branch 
+
+#################################################################################################################
+
+git merge feature1
+
+==> Merge feature1 into main for that u need to switch to main branch first
