@@ -65,3 +65,20 @@ git diff -- staged
 git rm --cached cred.txt
 
 ==> used to remove the file from git and then after untracked we can delete it 
+
+###################################################################################################
+
+git remote add origin https://github.com/bhaskar290391/Java_By_Telusko.git
+
+==> Connecting local repo to git repo 
+
+########################################################################################################
+
+git branch -M master
+
+==> committing to main branch 
+#######################################################################################################
+
+git push -u origin main
+
+==>pushing local code to git repo 
