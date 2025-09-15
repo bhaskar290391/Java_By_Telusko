@@ -61,3 +61,7 @@ git diff -- staged
 ==> used to provide the difference in changed file as per previous commit 
 
 ###################################################################################################
+
+git rm --cached cred.txt
+
+==> used to remove the file from git and then after untracked we can delete it 
