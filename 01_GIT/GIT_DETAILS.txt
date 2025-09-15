@@ -118,3 +118,9 @@ git checkout -b feature1
 git branch 
 
 ==> provide the list of active branch and which branch are we currently using
+
+##############################################################################################################
+
+git branch  -d feature2
+
+==> used to delete the specific branch 
