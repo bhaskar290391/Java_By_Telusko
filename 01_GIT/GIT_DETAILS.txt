@@ -82,3 +82,29 @@ git branch -M master
 git push -u origin main
 
 ==>pushing local code to git repo 
+
+#######################################################################################################
+
+git tag -a v1.0 -m "First release"
+
+==> create tag for ur code till u want to release 
+
+#######################################################################################################
+
+git tag 
+
+==> provide the list of tag availbale inside the repository
+
+########################################################################################################
+
+git push origin 1.0
+
+==> Pushing tag in to git repository
+
+##########################################################################################################
+
+git clone https://github.com/bhaskar290391/Java_By_Telusko.git
+
+==> used to checkout the latest code from  git repository
+
+##############################################################################################################
