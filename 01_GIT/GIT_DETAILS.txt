@@ -36,3 +36,16 @@ git commit -m "First commit"
 git log
 
 ==> Used to provide the commit history log 
+
+##################################################################################################
+git add . 
+
+==> Adding file into staging area
+
+##################################################################################################
+
+git commit -a -m "First commit"
+
+==> Used to commit the changes in the local repository by skipping staging
+
+###################################################################################################
