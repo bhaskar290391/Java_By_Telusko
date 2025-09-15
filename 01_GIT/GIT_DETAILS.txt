@@ -49,3 +49,15 @@ git commit -a -m "First commit"
 ==> Used to commit the changes in the local repository by skipping staging
 
 ###################################################################################################
+
+git diff
+
+==> used to provide the difference in changed file as per previous commit 
+
+###################################################################################################
+
+git diff -- staged
+
+==> used to provide the difference in changed file as per previous commit 
+
+###################################################################################################
