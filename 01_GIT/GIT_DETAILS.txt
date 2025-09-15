@@ -108,3 +108,13 @@ git clone https://github.com/bhaskar290391/Java_By_Telusko.git
 ==> used to checkout the latest code from  git repository
 
 ##############################################################################################################
+
+git checkout -b feature1
+
+==> creating new feature1 branch from main 
+
+##############################################################################################################
+
+git branch 
+
+==> provide the list of active branch and which branch are we currently using

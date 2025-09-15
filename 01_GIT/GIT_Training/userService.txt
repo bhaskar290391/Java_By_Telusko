@@ -1,1 +1,3 @@
 Generate the data and process IT 
+
+Added user to creating avatar
