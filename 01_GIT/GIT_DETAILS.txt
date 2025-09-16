@@ -109,7 +109,7 @@ git clone https://github.com/bhaskar290391/Java_By_Telusko.git
 
 ##############################################################################################################
 
-git checkout -b feature1
+git checkout -b feature1 or git switch feature2
 
 ==> creating new feature1 branch from main 
 
