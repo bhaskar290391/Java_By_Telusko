@@ -130,3 +130,10 @@ git branch  -d feature2
 git merge feature1
 
 ==> Merge feature1 into main for that u need to switch to main branch first
+
+#####################################################################################################################
+
+git rebase feature2
+
+==> one of the way to merge multiple branch similar to main but when we merge it cannot show branch history only one single line of tree
+.Rebase feature2 into main for that u need to switch to main branch first
