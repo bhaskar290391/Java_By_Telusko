@@ -1,2 +1,5 @@
 create a user 
 Manage a user
+
+create a database connection 
+closing a connection
