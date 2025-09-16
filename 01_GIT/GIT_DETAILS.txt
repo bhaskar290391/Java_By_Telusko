@@ -137,3 +137,21 @@ git rebase feature2
 
 ==> one of the way to merge multiple branch similar to main but when we merge it cannot show branch history only one single line of tree
 .Rebase feature2 into main for that u need to switch to main branch first
+
+###################################################################################################################
+
+git stash 
+
+==> used to save the changes without committing
+
+###################################################################################################################
+
+git stash list
+
+==> provide the list of stash available in the local repo
+
+##################################################################################################################
+
+git stash apply
+
+==> apply saved stash in the local repo once you are ready for commit
