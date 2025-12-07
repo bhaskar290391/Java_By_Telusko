@@ -1,3 +1,7 @@
+java -version: check version of java
+
+javac --version : check version of java compiler
+
 MicroserviceTutorials :
 https://github.com/navinreddy20/MicroserviceTutorials
 
