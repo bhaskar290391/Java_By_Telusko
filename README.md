@@ -19,3 +19,13 @@ How Java works:
 
 Variables :
 variables are used to store data for temporary purpose
+
+Datatype:
+
+byte : 1 byte
+short : 2 bytes
+int : 4 bytes
+long : 8 bytes
+float : 4 bytes
+doable : 8 bytes
+char : 2 bytes
