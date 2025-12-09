@@ -29,3 +29,8 @@ long : 8 bytes
 float : 4 bytes
 doable : 8 bytes
 char : 2 bytes
+
+Loop:
+While
+do while
+for loop
