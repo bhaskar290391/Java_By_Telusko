@@ -1,4 +1,4 @@
-package OOPS;
+package OOPS.Arrays;
 
 class Student {
     int age;

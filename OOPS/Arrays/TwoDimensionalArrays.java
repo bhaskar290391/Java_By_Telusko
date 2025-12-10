@@ -1,4 +1,4 @@
-package OOPS;
+package OOPS.Arrays;
 
 public class TwoDimensionalArrays {
     public static void main(String[] args) {
